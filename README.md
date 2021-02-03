@@ -1,6 +1,6 @@
 # Pogromcy Pythona
 
-Hej, witamy na githubie bloga <a target="_blank" href="pogromcykodu.pl">PogromcyKodu</a>.
+Hej, witamy na githubie bloga <a target="_blank" href="https://pogromcykodu.pl">PogromcyKodu</a>.
 
 Rozpoczęłyśmy serię **Pogromcy Pythona**, która ma na celu pomóc Ci w nauce podstaw Pythona.
 
